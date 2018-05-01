@@ -1,0 +1,9 @@
+package com.example.intel.navigationwithfragment.Utils;
+
+public class Constants {
+    public static String GET_DETAILS="http://www.nandhamotors.com/test/kiggrass/signin.php";
+    public static String UPDATE_INFO="http://www.nandhamotors.com/test/kiggrass/addUpdate.php";
+    public static String SampleJSON="{\"items\":[{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"}]}";
+    public static String SampleJSON1="[{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"},\n" +
+            "{\"id\":\"1\",\"name\":\"Apple\",\"price\":\"95.00\",\"uom\":\"5 KG\"}]";
+}

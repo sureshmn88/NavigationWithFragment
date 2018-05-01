@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home1"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="Home" />
+        <item
+            android:id="@+id/firstscreen"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="first screen" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="Profile" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="History" />
+
+        <item
+            android:id="@+id/expand_screen"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="Expand ListView" />
+        <item
+            android:id="@+id/progressbar_screen"
+            android:icon="@drawable/ic_manu"
+            android:checked="false"
+            android:title="progressbar_screen" />
+
+    </group>
+</menu>
